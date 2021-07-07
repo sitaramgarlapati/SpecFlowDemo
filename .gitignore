@@ -1,0 +1,11 @@
+
+*.v2
+.vs/SpecFlowDemo/v16/.suo
+SpecFlowCalculator/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+.vs/SpecflowDemo/v16/TestStore/0/000.testlog
+.vs/SpecflowDemo/v16/TestStore/0/testlog.manifest
+SpecFlowCalculator.Specs/bin/Debug/netcoreapp3.1/BoDi.dll
+/SpecFlowCalculator/bin/Debug/netcoreapp3.1
+/SpecFlowCalculator/obj
+/SpecFlowCalculator.Specs/bin/Debug/netcoreapp3.1
+/SpecFlowCalculator.Specs/obj
